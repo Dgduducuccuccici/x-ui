@@ -7,13 +7,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/nyeinkokoaung404/x-ui/database"
-	"github.com/nyeinkokoaung404/x-ui/database/model"
-	"github.com/nyeinkokoaung404/x-ui/logger"
-	"github.com/nyeinkokoaung404/x-ui/util/common"
-	"github.com/nyeinkokoaung404/x-ui/util/random"
-	"github.com/nyeinkokoaung404/x-ui/web/service"
-	"github.com/nyeinkokoaung404/x-ui/xray"
+	"github.com/Dgduducuccuccici/x-ui/database"
+	"github.com/Dgduducuccuccici/x-ui/database/model"
+	"github.com/Dgduducuccuccici/x-ui/logger"
+	"github.com/Dgduducuccuccici/x-ui/util/common"
+	"github.com/Dgduducuccuccici/x-ui/util/random"
+	"github.com/Dgduducuccuccici/x-ui/web/service"
+	"github.com/Dgduducuccuccici/x-ui/xray"
 
 	"github.com/goccy/go-json"
 )

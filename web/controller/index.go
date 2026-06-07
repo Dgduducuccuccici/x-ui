@@ -5,9 +5,9 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/nyeinkokoaung404/x-ui/logger"
-	"github.com/nyeinkokoaung404/x-ui/web/service"
-	"github.com/nyeinkokoaung404/x-ui/web/session"
+	"github.com/Dgduducuccuccici/x-ui/logger"
+	"github.com/Dgduducuccuccici/x-ui/web/service"
+	"github.com/Dgduducuccuccici/x-ui/web/session"
 
 	"github.com/gin-gonic/gin"
 )

@@ -6,11 +6,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/nyeinkokoaung404/x-ui/database"
-	"github.com/nyeinkokoaung404/x-ui/database/model"
-	"github.com/nyeinkokoaung404/x-ui/logger"
-	"github.com/nyeinkokoaung404/x-ui/util/common"
-	"github.com/nyeinkokoaung404/x-ui/xray"
+	"github.com/Dgduducuccuccici/x-ui/database"
+	"github.com/Dgduducuccuccici/x-ui/database/model"
+	"github.com/Dgduducuccuccici/x-ui/logger"
+	"github.com/Dgduducuccuccici/x-ui/util/common"
+	"github.com/Dgduducuccuccici/x-ui/xray"
 
 	"gorm.io/gorm"
 )

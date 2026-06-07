@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/nyeinkokoaung404/x-ui/util/common"
+	"github.com/Dgduducuccuccici/x-ui/util/common"
 )
 
 type Msg struct {

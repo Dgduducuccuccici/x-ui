@@ -6,12 +6,12 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/nyeinkokoaung404/x-ui/database/model"
-	"github.com/nyeinkokoaung404/x-ui/logger"
-	"github.com/nyeinkokoaung404/x-ui/util/json_util"
-	"github.com/nyeinkokoaung404/x-ui/util/random"
-	"github.com/nyeinkokoaung404/x-ui/web/service"
-	"github.com/nyeinkokoaung404/x-ui/xray"
+	"github.com/Dgduducuccuccici/x-ui/database/model"
+	"github.com/Dgduducuccuccici/x-ui/logger"
+	"github.com/Dgduducuccuccici/x-ui/util/json_util"
+	"github.com/Dgduducuccuccici/x-ui/util/random"
+	"github.com/Dgduducuccuccici/x-ui/web/service"
+	"github.com/Dgduducuccuccici/x-ui/xray"
 )
 
 //go:embed default.json

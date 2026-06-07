@@ -44,7 +44,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/Dgduducuccuccici/x-ui/master/i
 **Step 1:** To install an old version, use following installation command. e.g., version `1.8.0`:
 
 ```sh
-VERSION=1.8.0 && bash <(curl -Ls "https://raw.githubusercontent.com/nkka-404/x-ui/$VERSION/install.sh") $VERSION
+VERSION=1.8.0 && bash <(curl -Ls "https://raw.githubusercontent.com/Dgduducuccuccici/x-ui/$VERSION/install.sh") $VERSION
 ```
 
 ## Manual Install & Upgrade

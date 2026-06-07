@@ -36,7 +36,7 @@
 ## Install & Upgrade to Latest Version
 
 ```sh
-bash <(curl -Ls https://raw.githubusercontent.com/nkka-404/x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Dgduducuccuccici/x-ui/master/install.sh)
 ```
 
 ## Install Legacy Version

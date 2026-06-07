@@ -10,13 +10,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/nyeinkokoaung404/x-ui/database"
-	"github.com/nyeinkokoaung404/x-ui/database/model"
-	"github.com/nyeinkokoaung404/x-ui/logger"
-	"github.com/nyeinkokoaung404/x-ui/util/common"
-	"github.com/nyeinkokoaung404/x-ui/util/random"
-	"github.com/nyeinkokoaung404/x-ui/util/reflect_util"
-	"github.com/nyeinkokoaung404/x-ui/web/entity"
+	"github.com/Dgduducuccuccici/x-ui/database"
+	"github.com/Dgduducuccuccici/x-ui/database/model"
+	"github.com/Dgduducuccuccici/x-ui/logger"
+	"github.com/Dgduducuccuccici/x-ui/util/common"
+	"github.com/Dgduducuccuccici/x-ui/util/random"
+	"github.com/Dgduducuccuccici/x-ui/util/reflect_util"
+	"github.com/Dgduducuccuccici/x-ui/web/entity"
 )
 
 //go:embed config.json

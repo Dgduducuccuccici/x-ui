@@ -8,12 +8,12 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/nyeinkokoaung404/x-ui/config"
-	"github.com/nyeinkokoaung404/x-ui/logger"
-	"github.com/nyeinkokoaung404/x-ui/util/common"
-	"github.com/nyeinkokoaung404/x-ui/web/middleware"
-	"github.com/nyeinkokoaung404/x-ui/web/network"
-	"github.com/nyeinkokoaung404/x-ui/web/service"
+	"github.com/Dgduducuccuccici/x-ui/config"
+	"github.com/Dgduducuccuccici/x-ui/logger"
+	"github.com/Dgduducuccuccici/x-ui/util/common"
+	"github.com/Dgduducuccuccici/x-ui/web/middleware"
+	"github.com/Dgduducuccuccici/x-ui/web/network"
+	"github.com/Dgduducuccuccici/x-ui/web/service"
 
 	"github.com/gin-gonic/gin"
 )
